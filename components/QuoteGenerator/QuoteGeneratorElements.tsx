@@ -1,6 +1,9 @@
 "use client";
 import styled from "styled-components";
 
+
+
+
 export const GradientBackgroundCon = styled.div`
     background: linear-gradient(to right, #000046, #1cb5e0);
     background-size: 400% 400%;
